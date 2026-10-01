@@ -51,6 +51,7 @@ TIPS
 ----
 - The more you tell Claude about what is around you, the better your shots.
 - Turn on web search in Claude to get links to real example videos.
+  Examples come from YouTube. TikTok is never used for searching.
 - If Claude does not use the skill, say: "Use the shot-planner skill".
 
 
