@@ -1,0 +1,60 @@
+SHOT PLANNER: HOW TO USE IT
+===========================
+
+What it does: you paste your reel script into Claude, and it tells you
+exactly what to film, where to put your phone, and why.
+
+You need: a Claude account with Skills turned on, and a phone and tripod.
+Nothing else to install.
+
+
+STEP 1: DOWNLOAD
+----------------
+1. On this GitHub page, click the file named "shot-planner.zip".
+2. Click the download button (an arrow pointing down) at the top right.
+3. The file lands in your Downloads folder.
+
+Do NOT unzip it. Claude wants the zip file as it is.
+
+
+STEP 2: ADD IT TO CLAUDE
+------------------------
+1. Open Claude (claude.ai) and sign in.
+2. Click your name or picture, then "Settings".
+3. Open "Capabilities" (it may be called "Features").
+4. Find "Skills" and make sure it is switched on.
+   If you see "Code execution", switch that on too.
+5. Click "Upload skill" (or "Add skill") and choose shot-planner.zip.
+6. Switch the skill on. You should see "shot-planner" in the list.
+
+The menu names can be a little different on your screen. Look for
+Settings, then Skills.
+
+Updating? Delete the old shot-planner skill first, then upload the new zip.
+
+
+STEP 3: USE IT
+--------------
+1. Start a NEW chat in Claude.
+2. Paste your script and say what you have around you. For example:
+
+   "Plan the shots for this reel. I want it punchy. I've got a laptop,
+   a desk and a coffee. No clip-on mic."
+
+3. Claude gives you a shot plan: a table of shots, where to put your
+   phone, and links to example videos.
+4. Ask for changes in plain words:
+   "Make it calmer."   "Why is shot 3 a close-up?"   "I have a mirror too."
+
+
+TIPS
+----
+- The more you tell Claude about what is around you, the better your shots.
+- Turn on web search in Claude to get links to real example videos.
+- If Claude does not use the skill, say: "Use the shot-planner skill".
+
+
+STUCK?
+------
+Open an "Issue" on this GitHub page and tell us what you pasted and
+what happened.
